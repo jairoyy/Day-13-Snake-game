@@ -1,5 +1,9 @@
-alert("Hello Guys");
-alert("Welcome You All");
+alert("Hello");
+alert("Hello,Welcome");
+alert("Hello,Guys");
+alert("Hello,Dude");
+alert("Hello,Man");
+alert("Hello,Thank You");
 
 
 let grid = document.querySelector(".grid");
